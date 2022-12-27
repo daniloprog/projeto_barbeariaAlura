@@ -7,6 +7,7 @@ header {
 
 body {
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 .logo {
@@ -102,7 +103,3 @@ footer {
     font-size: 13px;
     margin: 40px 0px 0px;
 }
-
-
-
-
